@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on projects to grow my experience 
 - 📫 How to reach me pushkarchoudhary1602@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I like soft toys
-  
+
 
 <!---
 Astastaria16/Astastaria16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
